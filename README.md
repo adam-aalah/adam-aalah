@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  - 🎯: Interested in NLP & Predictive maintenance. Mainly Focusing on Hierarchical Multi-label Classification Tasks.
+  - 🎯: Interested in Deep Learning , Machine Learning and NLP.
 
 ### 🎉 News
 #### :octocat: 2023
