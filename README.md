@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ### 🎉 News
 #### :octocat: 2023
--   Youness, Genane, and **Adam Aalah**. 2023. "An Explainable Artificial Intelligence Approach for Remaining Useful Life Prediction" Aerospace 10, no. 5: 474. https://doi.org/10.3390/aerospace10050474 
+-   Youness, Genane, and **Adam Aalah**. 2023. "An Explainable Artificial Intelligence Approach for Remaining Useful Life Prediction" Aerospace 10, no. 5: 474. `https://doi.org/10.3390/aerospace10050474` 
