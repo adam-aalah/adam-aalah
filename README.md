@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 
 - V. dos Santos Amorim, W. Fogos da Rocha, F. Tongo da Silva and **A. AALAH**, "Detection of Anomalies in Civil Structures Using Machine Learning Models: Benchmark Study," 2023 International Conference on Machine Learning and Applications (ICMLA), Jacksonville, FL, USA, 2023, pp. 1913-1919, doi: 10.1109/ICMLA58977.2023.00290
 
+#### :octocat: 2024
+- Sauvayre, R.; Gable, J.S.M.; **Aalah, A.**; Fernandes Novo, M.; Dehondt, M.; Chauvière, C. "The Impact of Autonomous Vehicle Accidents on Public Sentiment: A Decadal Analysis of Twitter Discourse Using roBERTa". Technologies 2024, 12, 270. https://doi.org/10.3390/technologies12120270
