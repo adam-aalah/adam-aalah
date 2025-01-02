@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### 🎉 News
 #### :octocat: 2023
--   Youness, Genane, and **Adam Aalah**. 2023. "An Explainable Artificial Intelligence Approach for Remaining Useful Life Prediction" Aerospace 10, no. 5: 474. https://doi.org/10.3390/aerospace10050474
+-   Youness, Genane, and **Aalah, Adam**. 2023. "An Explainable Artificial Intelligence Approach for Remaining Useful Life Prediction" Aerospace 10, no. 5: 474. https://doi.org/10.3390/aerospace10050474
 
 - V. dos Santos Amorim, W. Fogos da Rocha, F. Tongo da Silva and **A. AALAH**, "Detection of Anomalies in Civil Structures Using Machine Learning Models: Benchmark Study," 2023 International Conference on Machine Learning and Applications (ICMLA), Jacksonville, FL, USA, 2023, pp. 1913-1919, doi: 10.1109/ICMLA58977.2023.00290
 
